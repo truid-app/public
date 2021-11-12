@@ -1,16 +1,21 @@
-name	ring	quadrant	isNew	description
-Oauth2	Adopt	Standards & Techniques	FALSE
-Java	Adopt	Languages & Frameworks	FALSE
-Jira	Adopt	Tools	FALSE
-GCP	Adopt	Platforms & Storage	FALSE
-Akka	Assess	Languages & Frameworks	FALSE
-Couchbase	Assess	Platforms & Storage	FALSE
-Scala	Assess	Languages & Frameworks	FALSE
-Maven	Adopt	Languages & Frameworks	FALSE
-gRPC	Assess	Standards & Techniques	FALSE
-REST	Adopt	Standards & Techniques	FALSE
-GraphQL	Assess	Standards & Techniques	FALSE
-GitHub	Adopt	Tools	FALSE
-PostgreSQL	Assess	Platforms & Storage	FALSE
-FaceTech	Assess	Platforms & Storage	FALSE
-Regula	Assess	Platforms & Storage	FALSE
+name,ring,quadrant,isNew,description
+OAuth2,Adopt,Standards & Techniques,FALSE,
+Java,Adopt,Languages & Frameworks,FALSE,
+Jira,Adopt,Tools,FALSE,
+GCP,Adopt,Platforms & Storage,FALSE,
+Akka,Assess,Languages & Frameworks,FALSE,
+Couchbase,Hold,Platforms & Storage,FALSE,
+Scala,Assess,Languages & Frameworks,FALSE,
+Maven,Adopt,Languages & Frameworks,FALSE,
+gRPC,Assess,Standards & Techniques,FALSE,
+REST,Adopt,Standards & Techniques,FALSE,
+GraphQL,Assess,Standards & Techniques,FALSE,
+GitHub,Adopt,Tools,FALSE,
+PostgreSQL,Assess,Platforms & Storage,FALSE,
+FaceTech,Assess,Platforms & Storage,FALSE,
+Regula,Assess,Platforms & Storage,FALSE,
+SAML 2.0,Assess,Standards & Techniques,FALSE,
+Flutter,Assess,Languages & Frameworks,FALSE,
+React Native,Assess,Languages & Frameworks,FALSE,
+React,Assess,Languages & Frameworks,FALSE,
+Typescript,Assess,Languages & Frameworks,FALSE,
