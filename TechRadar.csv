@@ -1,6 +1,7 @@
 name,ring,quadrant,isNew,description
 OAuth2,Adopt,Standards & Techniques,FALSE,
 Java,Adopt,Languages & Frameworks,FALSE,
+GraalVM,Hold,Languages & Frameworks,FALSE,
 Jira,Adopt,Tools,FALSE,
 GCP,Adopt,Platforms & Storage,FALSE,
 Akka,Assess,Languages & Frameworks,FALSE,
