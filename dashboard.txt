@@ -1,6 +1,6 @@
 15;https://console.cloud.google.com/errors?project=veritru-dev-332314
 15;https://veritruidentity.atlassian.net/jira/software/c/projects/ALLDEV/boards/9
 15;https://console.cloud.google.com/billing/016F0D-2CCFC5-A55C1A/reports?organizationId=616807378429&project=veritru-dev-332314
-15;https://veritruidentity.atlassian.net/jira/software/c/projects/ALLDEV/boards/9/reports/burnup-chart?sprint=21&estimate=issueCount_
+15;https://veritruidentity.atlassian.net/jira/software/c/projects/ALLDEV/boards/9/reports/burnup-chart?estimate=issueCount_
 15;https://veritruidentity.atlassian.net/jira/software/c/projects/ALLDEV/boards/9/backlog?selectedIssue=DEV-114&quickFilter=33&issueLimit=100
 15;https://veritruidentity.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10005
