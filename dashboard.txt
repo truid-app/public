@@ -4,3 +4,6 @@
 15;https://veritruidentity.atlassian.net/jira/software/c/projects/ALLDEV/boards/9/reports/burnup-chart?estimate=issueCount_
 15;https://veritruidentity.atlassian.net/jira/software/c/projects/ALLDEV/boards/9/backlog?selectedIssue=DEV-114&quickFilter=33&issueLimit=100
 15;https://veritruidentity.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10005
+5;https://docs.google.com/presentation/d/1PvsVSUwBGLg8hEv8AXckO-esyjdDqHXfJHU0dl-HQtg/present?slide=id.g15156a299d5_0_85
+15;https://docs.google.com/presentation/d/1PvsVSUwBGLg8hEv8AXckO-esyjdDqHXfJHU0dl-HQtg/present?slide=id.g15156a299d5_0_0
+15:https://docs.google.com/presentation/d/1PvsVSUwBGLg8hEv8AXckO-esyjdDqHXfJHU0dl-HQtg/present?slide=id.g15156a299d5_0_92
