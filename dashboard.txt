@@ -1,4 +1,3 @@
-15;https://console.cloud.google.com/errors?project=veritru-dev-332314
 15;https://veritruidentity.atlassian.net/jira/software/c/projects/ALLDEV/boards/9
 15;https://console.cloud.google.com/billing/013C71-501B23-002EEA/reports?organizationId=252201914815&project=veritru-dev-332314
 15;https://veritruidentity.atlassian.net/jira/software/c/projects/ALLDEV/boards/9/reports/burnup-chart?estimate=issueCount_
