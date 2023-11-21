@@ -3,6 +3,7 @@
 15;https://console.cloud.google.com/monitoring/dashboards/builder/483c5986-8b5d-4d10-b8e5-35c290471937;duration=P2D?project=truid-prod
 15;https://veritruidentity.atlassian.net/jira/dashboards/10011
 15;https://veritruidentity.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10005
+15;https://veritruidentity.atlassian.net/wiki/spaces/VER/pages/198017105/Customer+Product+Scope
 15;https://docs.google.com/presentation/d/1PvsVSUwBGLg8hEv8AXckO-esyjdDqHXfJHU0dl-HQtg/present?slide=id.g1959a27fb5b_1_0
 15;https://docs.google.com/presentation/d/1PvsVSUwBGLg8hEv8AXckO-esyjdDqHXfJHU0dl-HQtg/edit#slide=id.g25ff53a0df4_1_61
 15;https://docs.google.com/spreadsheets/d/16F0YNSq3u_iDISXjFhX8qpYpLvps2Yj0TdsJmtp15vQ/edit?usp=sharing
