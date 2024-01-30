@@ -8,4 +8,5 @@
 15;https://docs.google.com/presentation/d/1PvsVSUwBGLg8hEv8AXckO-esyjdDqHXfJHU0dl-HQtg/edit#slide=id.g25ff53a0df4_1_61
 15;https://docs.google.com/spreadsheets/d/16F0YNSq3u_iDISXjFhX8qpYpLvps2Yj0TdsJmtp15vQ/edit?usp=sharing
 15;https://www.tickcounter.com/countup/322993/days-since-last-incident
-15;https://truid.matomo.cloud/index.php?module=CoreHome&action=index&idSite=5&period=day&date=yesterday#?idSite=5&period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=2
+15;https://lookerstudio.google.com/s/onLo6cqCmyA
+15;https://lookerstudio.google.com/s/qFzqQ0M-Uyc
