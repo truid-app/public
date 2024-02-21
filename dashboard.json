@@ -3,7 +3,7 @@
   "fullscreen": false,
   "autoStart": false,
   "lazyLoadTabs": false,
-  "closeExistingTabs": true,
+  "closeExistingTabs": false,
   "websites": [
     {
       "url": "https://console.cloud.google.com/billing/016F0D-2CCFC5-A55C1A/reports;credits=SUSTAINED_USAGE_DISCOUNT,SPENDING_BASED_DISCOUNT,FREE_TIER?organizationId=616807378429",
