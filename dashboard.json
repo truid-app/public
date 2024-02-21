@@ -1,0 +1,64 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://console.cloud.google.com/billing/016F0D-2CCFC5-A55C1A/reports;credits=SUSTAINED_USAGE_DISCOUNT,SPENDING_BASED_DISCOUNT,FREE_TIER?organizationId=616807378429",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://console.cloud.google.com/monitoring/dashboards/builder/483c5986-8b5d-4d10-b8e5-35c290471937;duration=P2D?project=truid-prod",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://veritruidentity.atlassian.net/jira/dashboards/10011",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1PvsVSUwBGLg8hEv8AXckO-esyjdDqHXfJHU0dl-HQtg/present?slide=id.g1959a27fb5b_1_0",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1PvsVSUwBGLg8hEv8AXckO-esyjdDqHXfJHU0dl-HQtg/present?slide=id.g2a00254662d_117_1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/16F0YNSq3u_iDISXjFhX8qpYpLvps2Yj0TdsJmtp15vQ/edit?usp=sharing",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://www.tickcounter.com/countup/322993/days-since-last-incident",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://lookerstudio.google.com/embed/reporting/40923167-65a2-4b8d-ae25-ffe1e3f6c905/page/0qGnD",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://lookerstudio.google.com/embed/reporting/40923167-65a2-4b8d-ae25-ffe1e3f6c905/page/p_fxjlzbbudd",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://lookerstudio.google.com/embed/reporting/66c5532c-9924-4ef2-8eda-d648c1e81f5e/page/ExuoD",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "https://lookerstudio.google.com/embed/reporting/cd5b657a-49b9-4296-8791-c3770c9c7d5a/page/5WmoD",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 20
+    }
+  ]
+}
