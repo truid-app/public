@@ -5,7 +5,7 @@
 15;https://docs.google.com/presentation/d/1PvsVSUwBGLg8hEv8AXckO-esyjdDqHXfJHU0dl-HQtg/present?slide=id.g2a00254662d_117_1
 15;https://docs.google.com/spreadsheets/d/16F0YNSq3u_iDISXjFhX8qpYpLvps2Yj0TdsJmtp15vQ/edit?usp=sharing
 15;https://www.tickcounter.com/countup/322993/days-since-last-incident
-15;https://lookerstudio.google.com/s/pIcW5ORybB0
-15;https://lookerstudio.google.com/s/nVFwSRGDXKI
-15;https://lookerstudio.google.com/s/gFoXZ2GMPG0
-15;https://lookerstudio.google.com/s/kSiTSkD1S7s
+15;https://lookerstudio.google.com/embed/reporting/40923167-65a2-4b8d-ae25-ffe1e3f6c905/page/0qGnD
+15;https://lookerstudio.google.com/embed/reporting/40923167-65a2-4b8d-ae25-ffe1e3f6c905/page/p_fxjlzbbudd
+15;https://lookerstudio.google.com/embed/reporting/66c5532c-9924-4ef2-8eda-d648c1e81f5e/page/ExuoD
+15;https://lookerstudio.google.com/embed/reporting/cd5b657a-49b9-4296-8791-c3770c9c7d5a/page/5WmoD
