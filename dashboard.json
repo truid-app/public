@@ -6,7 +6,7 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://console.cloud.google.com/billing/016F0D-2CCFC5-A55C1A/reports;credits=SUSTAINED_USAGE_DISCOUNT,SPENDING_BASED_DISCOUNT,FREE_TIER?organizationId=616807378429",
+      "url": "https://console.cloud.google.com/billing/016F0D-2CCFC5-A55C1A/reports;timeRange=LAST_30_DAYS;credits=SUSTAINED_USAGE_DISCOUNT,SPENDING_BASED_DISCOUNT,FREE_TIER?organizationId=616807378429&inv=1&invt=AbjTog",
       "duration": 15,
       "tabReloadIntervalSeconds": 500
     },
